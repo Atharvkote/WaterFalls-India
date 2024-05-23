@@ -1,2 +1,3 @@
-![logo](Banner(1).jpeg)
+# Essential Images
+![logo](Banner.jpeg)
  
