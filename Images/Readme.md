@@ -1,3 +1,3 @@
-# Essential Images
+# Background Images
 ![logo](Banner.jpeg)
  
