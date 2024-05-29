@@ -1,0 +1,101 @@
+
+body {
+    font-family: "Josefin Sans", sans-serif;
+    background-color: #0fe9ba;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+section a {
+    padding: 12px 30px;
+    border-radius: 4px;
+    outline: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+    transition: all 0.5s ease;
+    margin-bottom: 30px;
+}
+
+.button-container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+
+}
+
+.btnone {
+    background: #fff;
+    color: #000;
+}
+
+.btnone:hover {
+    background: #00b894;
+    color: white;
+}
+
+h1 {
+    margin-top: 24px;
+    margin-bottom:40px;
+    text-align: center;
+    color: #333;
+}
+
+.btntwo {
+    background: #00b894;
+    color: white;
+}
+
+.btntwo:hover {
+    background: #fff;
+    color: #000;
+}
+.waterfall {
+    margin: 20px auto;
+    padding: 20px;
+    width: 80%;
+    background: #ffebb8;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 18px 18px 18px 18px;
+}
+
+.waterfall img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 18px 18px 18px 18px;
+}
+
+.waterfall h2 {
+    font-size: 24px;
+    margin: 10px 0;
+    text-align: center;
+}
+
+.waterfall p {
+    font-size: 16px;
+    text-align: center;
+    margin: 10px 0;
+    
+
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .waterfall {
+        width: 90%;
+    }
+
+    .waterfall h2 {
+        font-size: 20px;
+    }
+
+    .waterfall p {
+        font-size: 14px;
+    }
+}
+
