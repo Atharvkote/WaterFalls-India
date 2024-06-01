@@ -25,5 +25,10 @@ This is My Web DeveLopment Project. A Infromative Website Built Using HTML,CSS,J
 
 ## Contributions :
 
->[Sairaj Naikwade]()<br>
->[Venky Ladda]()
+>[Sairaj Naikwade](https://github.com/Sairajnaikwade)<br>
+>[Venky Ladda](https://github.com/venkyguru5)
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
