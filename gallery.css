@@ -1,0 +1,75 @@
+*{
+    font-family: "Josefin Sans", sans-serif;
+    margin: 0;
+    padding: 0s;
+}
+body {
+    background-color: #00b894;
+    scroll-behavior: smooth;
+}
+
+h1{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: #00b894;
+    border-radius: 19%;
+    margin-right: 30px;
+    border-radius: 30px;
+    margin-left: 30px;
+};
+
+img{
+  margin-right: 50px;
+}
+.main{
+    background-color:  #ffebb8;
+    text-align: center;
+    padding-top: 40px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 30px;
+}
+.IE{
+    border-radius: 20px;
+   padding-left: 5px;
+   padding-bottom: 5px;
+}
+section a {
+    padding: 12px 30px;
+    border-radius: 4px;
+    outline: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+    transition: all 0.5s ease;
+    margin-bottom: 30px;
+}
+.button-container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+
+}
+
+.btnone {
+    background: #fff;
+    color: #000;
+}
+
+.btnone:hover {
+    background: #00b894;
+    color: white;
+}
+.btntwo {
+    background: #00b894;
+    color: white;
+}
+
+.btntwo:hover {
+    background: #fff;
+    color: #000;
+}
