@@ -9,11 +9,8 @@ This is My Web DeveLopment Project. A Infromative Website Built Using HTML,CSS,J
 
 ### Info Page :
 <img Hieght=500 Width=600 src="Images/Output Images/Op3.png">
-</br></br>
 <img Hieght=500 Width=600 src="Images/Output Images/Op4.png">
-</br></br>
 <img Hieght=500 Width=600 src="Images/Output Images/Op5.png">
-</br></br>
 <img Hieght=500 Width=600 src="Images/Output Images/Op6.png">
 </br>
 <hr>
